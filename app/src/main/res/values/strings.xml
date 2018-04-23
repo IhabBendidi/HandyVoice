@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Handy Voice</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_welcome">Welcome/Courses</string>
+    <string name="nav_item_news_and_updates">Login</string>
+    <string name="nav_item_blog">Sign Up</string>
+    <string name="nav_item_about">About US</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_welcome</item>
+        <item>@string/nav_item_news_and_updates</item>
+        <item>@string/nav_item_blog</item>
+        <item>@string/nav_item_about</item>
+    </string-array>
+
+    <string name="title_welcome">Welcome/Courses</string>
+    <string name="title_about">About Us</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="title_login">Login</string>
+    <string name="question">\?</string>
+
+
+
+
+    <!-- Documentation -->
+
+        <string name="intro_documentation">HTML (HyperText Markup Language) is the most basic building
+            block of the Web. It describes and defines the content of a webpage along with the basic
+            layout of the webpage. Other technologies besides HTML are generally used to describe a
+            web page\'s appearance/presentation (CSS) or functionality/ behavior (JavaScript).</string>
+
+
+
+
+    <string name="content_documentation">HTML (HyperText Markup Language) is the most basic building
+        block of the Web. It describes and defines the content of a webpage along with the basic
+        layout of the webpage. Other technologies besides HTML are generally used to describe a web
+        page\'s appearance/presentation (CSS) or functionality/ behavior (JavaScript).
+        "HyperText" refers to links that connect web pages to one another, either within a single
+        website or between websites. Links are a fundamental aspect of the Web. By uploading
+        content to the Internet and linking it to pages created by other people, you become an
+        active participant in the World Wide Web.
+        HTML uses "markup" to annotate text, images, and other content for display in a Web browser.
+        HTML markup includes special "elements" such as head , title, body, header, footer, article, section, p, div,
+        span, img, and many others.
+        Tags in HTML are case insensitive. That is, they can be written in uppercase, lowercase,
+        or a mixture. Example title tag can be written as Title,TiTlE or in any other way.</string>
+
+
+
+    <string name="Testing_documentation">
+    This module explores how to use HTML to include multimedia in your web pages, including the
+        different ways that images can be included, and how to embed video, audio, and even entire
+        other webpages.
+    Representing tabular data on a webpage in an understandable, accessible way can be a challenge.
+        This module covers basic table markup, along with more complex features such as implementing
+        captions and summaries.
+    Forms are a very important part of the Web — these provide much of the functionality you need
+        for interacting with websites, e.g. registering and logging in, sending feedback, buying
+        products, and more. This module gets you started with creating the client-side/front-end
+        parts of forms.
+    Provides links to sections of content explaining how to use HTML to solve very common problems
+        when creating a web page: dealing with titles, adding images or videos, emphasizing content,
+        creating a basic form, etc.</string>
+
+
+
+
+
+
+    <string name="summary_documentation">This module sets the stage, getting you used to important
+        concepts and syntax such as looking at applying HTML to text, how to create hyperlinks,
+        and how to use HTML to structure a web page.</string>
+    <!-- Documentation string ends -->
+    <!-- Strings to change the mode -->
+    <string name="menu_night_mode">Change the mode</string>
+    <string name="menu_night_mode_system">Follow system</string>
+    <string name="menu_night_mode_day">Day (always)</string>
+    <string name="menu_night_mode_night">Night (always)</string>
+    <string name="menu_night_mode_auto">Auto</string>
+    <string name="Color">TextColor</string>
+    <string name="learn_to_communicate_with_deaf_people">Learn to communicate with deaf people</string>
+    <string name="for_entreprises">For Entreprises</string>
+    <string name="courses_for_deaf">Courses for deaf</string>
+
+
+</resources>

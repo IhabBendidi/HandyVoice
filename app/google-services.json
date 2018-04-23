@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "431875337254",
+    "firebase_url": "https://source-code-f9aca.firebaseio.com",
+    "project_id": "source-code-f9aca",
+    "storage_bucket": "source-code-f9aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431875337254:android:6788410dd4459317",
+        "android_client_info": {
+          "package_name": "com.voloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431875337254-5em7uceqfbu18fb57dih197clr20sq8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voloc",
+            "certificate_hash": "871f3e9218e36efae9aec49a6b8d2313a236c2a9"
+          }
+        },
+        {
+          "client_id": "431875337254-hefd94k2lauqg0rkjas4hiv4k40icbjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi50yQPk6PH3tEqO-wvUu885qd2PlZotA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431875337254-hefd94k2lauqg0rkjas4hiv4k40icbjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
